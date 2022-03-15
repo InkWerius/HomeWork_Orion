@@ -18,6 +18,8 @@ public class HW {
 
         if (a > b) {
             System.out.printf("Digit %d more than %d%n", a, b);
+        } else if(a==b) {
+            System.out.printf("Digits are equal");
         } else {
             System.out.printf("Digit %d less than %d%n", a, b);
         }
