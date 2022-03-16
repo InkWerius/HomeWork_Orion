@@ -37,7 +37,7 @@ class Person {
     }
 }
 
-public class HW{
+public class PersonDemo{
     public static void main(String[] args) {
         String[] names = {"Vincent", "Melanie", "Johnny", "Tim", "Elizabeth"};
         String[] last_names= {"Pride", "Watson", "Depp", "Trump","Pitt", "Hascoat"};
