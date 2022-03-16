@@ -1,4 +1,3 @@
-package Learning;
 
 //Задание 2. Случайности - не случайны
 //        Создать класс SequentialRandom с одним полем типа int
@@ -37,7 +36,7 @@ class SequentialRandom {
 
 }
 
-public class HW {
+public class SequentialRandomDemo {
     public static void main(String[] args) {
 //TEST
         SequentialRandom a = new SequentialRandom();
