@@ -1,4 +1,3 @@
-package Learning;
 
 //Задание 1. Цифровая персонализация
 //        - Создать класс Person с двумя полями типа String: firstName, lastName
